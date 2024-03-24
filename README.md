@@ -1,1 +1,1 @@
-# slider-with-whales-3
+# slider-with-a-light-3
